@@ -30,9 +30,9 @@
 
 <a href="https://github.com/Krlos-G">
 
-<img height="120em" src="https://github-readme-stats.vercel.app/api?username=Krlos-G&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api?username=Krlos-G&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
       
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krlos-G&layout=compact&theme=jolly"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krlos-G&layout=compact&theme=dark"/>
 
 </div>
 
