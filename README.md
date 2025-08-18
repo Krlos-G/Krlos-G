@@ -5,8 +5,8 @@
 </div>
 
 
-- 🖥️ Hoje trabalho como Tecnico de Informática.
-- 💾 Estudando redes, cybersecurity, desenvolvimento mobile, desenvolvendo projetos para portifolio.
+- 🖥️ Hoje sou dev estagiário pelo grupo Memora https://memora.com.br/.
+- 💾 Fazendo Faculdade de ADS 6/6 pela PUC-GO e estudando redes, cybersecurity, desenvolvimento mobile e desenvolvendo projetos para portifolio.
 
 <h3>Onde me encontrar:</h3>
 
