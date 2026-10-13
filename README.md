@@ -1,13 +1,14 @@
-<h1 align="center">Olá, eu sou o Carlos Gabriel</h1>
-<p align="center"><b>Desenvolvedor Full Stack Java</b> · Goiânia, GO</p>
+<h1 align="center">Hi, I'm Carlos Gabriel</h1>
+<p align="center"><b>Full Stack Java Developer</b> · Goiânia, Brazil</p>
+<p align="center">🇧🇷 <a href="README.pt-BR.md">Leia em português</a></p>
 
-## Sobre mim
+## About me
 
-- Trainee na **[Memora Processos Inovadores](https://memora.com.br/)**, trabalhando no **GDA (Gerência da Dívida Ativa)**, sistema do Estado de Goiás que cobre o ciclo de cobrança da dívida ativa: inscrição, emissão de CDA e DARE, parcelamento, protesto e execução fiscal.
-- Antes disso, fui estagiário na Memora desenvolvendo funcionalidades do sistema SSM, no frontend em **Angular** integrado a APIs REST em **Spring Boot**.
-- Formado em **Análise e Desenvolvimento de Sistemas** pela PUC Goiás.
-- Hoje estudando **sistemas distribuídos**: estou construindo um [Kafka do zero em Java](https://github.com/Krlos-G/kafka-from-scratch) pra entender como ele funciona por dentro.
-- Vim do suporte de TI, então gosto de entender o sistema inteiro, do código até a infraestrutura.
+- Trainee at **[Memora Processos Inovadores](https://memora.com.br/)**, working on **GDA (Gerência da Dívida Ativa)**, the State of Goiás system that covers the whole tax debt collection cycle: debt registration, issuing debt certificates (CDA) and payment slips (DARE), installment plans, protest and tax enforcement.
+- Before that, I was an intern at Memora building features for the SSM system, on an **Angular** frontend integrated with **Spring Boot** REST APIs.
+- Graduated in **Systems Analysis and Development** from PUC Goiás.
+- Currently studying **distributed systems**: I'm building [Kafka from scratch in Java](https://github.com/Krlos-G/kafka-from-scratch) to understand how it works under the hood.
+- I came from IT support, so I like understanding the whole system, from the code down to the infrastructure.
 
 ## Stack
 
@@ -25,7 +26,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
-**Banco de dados e ferramentas**
+**Databases and tools**
 <p>
   <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -33,21 +34,21 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-**Também já trabalhei com**
+**Also worked with**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 </p>
 
-## Projetos em destaque
+## Featured projects
 
-| Projeto | O que é |
+| Project | What it is |
 |---|---|
-| [**kafka-from-scratch**](https://github.com/Krlos-G/kafka-from-scratch) | Sistema de mensageria inspirado no Apache Kafka, feito do zero em Java: protocolo binário próprio, coordenação com ZooKeeper e log segmentado em disco. (em andamento) |
-| [**APP-TASKY**](https://github.com/Krlos-G/APP-TASKY) | Aplicação Java para montar e seguir uma rotina diária e reduzir a procrastinação. |
-| [**Analise-Dados-Febre-Amarela**](https://github.com/Krlos-G/Analise-Dados-Febre-Amarela) | Análise de dados abertos do DATASUS e IBGE sobre a vacinação contra a Febre Amarela, cruzando cobertura vacinal com renda por estado. |
-| [**Projeto_Eventosfera**](https://github.com/Krlos-G/Projeto_Eventosfera) | Aplicação Java para criação e gerenciamento de eventos comunitários. |
+| [**kafka-from-scratch**](https://github.com/Krlos-G/kafka-from-scratch) | A messaging system inspired by Apache Kafka, built from scratch in Java: custom binary protocol, ZooKeeper coordination and a segmented on-disk log. (work in progress) |
+| [**APP-TASKY**](https://github.com/Krlos-G/APP-TASKY) | Java app to build and actually stick to a daily routine and cut down on procrastination. |
+| [**Analise-Dados-Febre-Amarela**](https://github.com/Krlos-G/Analise-Dados-Febre-Amarela) | Data analysis of Brazilian open government data (DATASUS and IBGE) on yellow fever vaccination, crossing vaccine coverage with income per state. |
+| [**Projeto_Eventosfera**](https://github.com/Krlos-G/Projeto_Eventosfera) | Java app for creating and managing community events. |
 
 ## GitHub Stats
 
@@ -55,8 +56,11 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Krlos-G&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krlos-G&layout=compact&theme=dark"/>
 </p>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Krlos-G&theme=github-compact&hide_border=true"/>
+</p>
 
-## Onde me encontrar
+## Where to find me
 
 <p>
   <a href="https://www.linkedin.com/in/carlosgabrielcb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
