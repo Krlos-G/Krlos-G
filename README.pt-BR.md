@@ -57,7 +57,11 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krlos-G&layout=compact&theme=dark"/>
 </p>
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Krlos-G&theme=github-compact&hide_border=true"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krlos-G/Krlos-G/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krlos-G/Krlos-G/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Krlos-G/Krlos-G/output/github-snake.svg" />
+  </picture>
 </p>
 
 ## Onde me encontrar
