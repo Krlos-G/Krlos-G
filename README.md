@@ -1,10 +1,6 @@
 <h1 align="center">Olá, eu sou o Carlos Gabriel</h1>
 <p align="center"><b>Desenvolvedor Full Stack Java</b> · Goiânia, GO</p>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/58/d3/70/58d370dc199e9fbca99db606d10460d9.gif" width="420" alt="banner"/>
-</p>
-
 ## Sobre mim
 
 - Trainee na **[Memora Processos Inovadores](https://memora.com.br/)**, trabalhando no **GDA (Gerência da Dívida Ativa)**, sistema do Estado de Goiás que cobre o ciclo de cobrança da dívida ativa: inscrição, emissão de CDA e DARE, parcelamento, protesto e execução fiscal.
